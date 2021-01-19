@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593629187 source:d:\coding\programming\phai\main.cpp
+	<iostream>
+	<list>
+	<vector>
+
